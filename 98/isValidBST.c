@@ -7,7 +7,6 @@
  * };
  */
 bool isValidBST(struct TreeNode* root) {
-    bool status = true;
     struct TreeNode ** stack = (struct TreeNode**)malloc(sizeof(struct TreeNode*) * 50);
     int length;
     struct TreeNode * node;
@@ -38,5 +37,5 @@ bool isValidBST(struct TreeNode* root) {
         }
     }
 
-    return (status && isValidBST(root->left) && isValidBST(root->right));
+    return isValidBST(root->left) && isValidBST(root->right);
 }

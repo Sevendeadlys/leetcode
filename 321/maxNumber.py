@@ -1,3 +1,24 @@
+'''
+To create the max number from num1 and nums2 with k elements,
+we assume the final result combined by i numbers (denotes as left)
+from num1 and j numbers (denotes as right) from nums2, where i+j==k.
+
+Obviously, left and right must be the maximum possible number in num1 and num2 respectively.
+i.e. num1 = [6,5,7,1] and i == 2, then left must be [7,1].
+
+The final result is the maximum possible merge of all left and right.
+
+So there're 3 steps:
+    iterate i from 0 to k.
+    find max number from num1, num2 by select i , k-i numbers, denotes as left, right
+    find max merge of left, right
+function maxSingleNumber select i elements from num1 that is maximum.
+The idea find the max number one by one. i.e. assume nums [6,5,7,1,4,2], selects = 3.
+1st digit: find max digit in [6,5,7,1], the last two digits [4, 2] can not be selected at this moment.
+2nd digits: find max digit in [1,4], since we have already selects 7, we should consider elements after it,
+also, we should leave one element out. 3rd digits: only one left [2], we select it. and function output [7,4,2]
+function mergeMax find the maximum combination of left, and right.
+'''
 class Solution(object):
     def maxNumber(self, nums1, nums2, k):
         """

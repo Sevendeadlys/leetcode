@@ -17,7 +17,6 @@ class Solution(object):
             ans = max(ans,self.mergeStr(str1,str2))
         return ans
 
-    
     @staticmethod
     def mergeStr(nums1,nums2):
         ret = []

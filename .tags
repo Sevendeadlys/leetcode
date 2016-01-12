@@ -1,0 +1,91 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+twoSum	E:\yi_nan\leetcode\1\twoSum.c	/^int* twoSum(int* nums, int numsSize, int target) {$/;"	function	line:6	signature:(int* nums, int numsSize, int target)
+Solution	E:\yi_nan\leetcode\1\twoSum.py	/^class Solution(object):$/;"	class	line:6
+twoSum	E:\yi_nan\leetcode\1\twoSum.py	/^    def twoSum(self, nums, target):$/;"	member	line:7	class:Solution
+isSameTree	E:\yi_nan\leetcode\100\sameTree.c	/^bool isSameTree(struct TreeNode* p, struct TreeNode* q) {$/;"	function	line:9	signature:(struct TreeNode* p, struct TreeNode* q)
+max	E:\yi_nan\leetcode\104\maxDepth.c	/^int max(int x, int y)$/;"	function	line:9	signature:(int x, int y)
+maxDepth	E:\yi_nan\leetcode\104\maxDepth.c	/^int maxDepth(struct TreeNode* root) {$/;"	function	line:13	signature:(struct TreeNode* root)
+maxProfit	E:\yi_nan\leetcode\122\maxProfit.c	/^int maxProfit(int* prices, int pricesSize) {$/;"	function	line:1	signature:(int* prices, int pricesSize)
+singleNumber	E:\yi_nan\leetcode\136\singleNumber.c	/^int singleNumber(int* nums, int numsSize) {$/;"	function	line:1	signature:(int* nums, int numsSize)
+hasCycle	E:\yi_nan\leetcode\141\hasCycle.c	/^bool hasCycle(struct ListNode *head) {$/;"	function	line:8	signature:(struct ListNode *head)
+ARRAY_SIZE	E:\yi_nan\leetcode\144\preorderTraversal.c	/^#define ARRAY_SIZE /;"	macro	line:14	file:
+REALLOC_SIZE	E:\yi_nan\leetcode\144\preorderTraversal.c	/^#define REALLOC_SIZE /;"	macro	line:15	file:
+STACK_MALLOC	E:\yi_nan\leetcode\144\preorderTraversal.c	/^#define STACK_MALLOC(/;"	macro	line:16	file:
+STACK_REALLOC	E:\yi_nan\leetcode\144\preorderTraversal.c	/^#define STACK_REALLOC(/;"	macro	line:17	file:
+preorderTraversal	E:\yi_nan\leetcode\144\preorderTraversal.c	/^int* preorderTraversal(struct TreeNode* root, int* returnSize) {$/;"	function	line:18	signature:(struct TreeNode* root, int* returnSize)
+Solution	E:\yi_nan\leetcode\15\threeSum.py	/^class Solution(object):$/;"	class	line:9
+threeSum	E:\yi_nan\leetcode\15\threeSum.py	/^    def threeSum(self, nums):$/;"	member	line:10	class:Solution
+Solution	E:\yi_nan\leetcode\16\threeSumClosest.py	/^class Solution(object):$/;"	class	line:1
+threeSumClosest	E:\yi_nan\leetcode\16\threeSumClosest.py	/^    def threeSumClosest(self, nums, target):$/;"	member	line:2	class:Solution
+GET_NUM	E:\yi_nan\leetcode\171\titleToNumber.c	/^#define GET_NUM(/;"	macro	line:1	file:
+titleToNumber	E:\yi_nan\leetcode\171\titleToNumber.c	/^int titleToNumber(char* s) {$/;"	function	line:3	signature:(char* s)
+Solution	E:\yi_nan\leetcode\18\fourSum.py	/^class Solution(object):$/;"	class	line:1
+fourSum	E:\yi_nan\leetcode\18\fourSum.py	/^    def fourSum(self, nums, target):$/;"	member	line:2	class:Solution
+Solution	E:\yi_nan\leetcode\19\removeNthFromEnd.py	/^class Solution(object):$/;"	class	line:10
+removeNthFromEnd	E:\yi_nan\leetcode\19\removeNthFromEnd.py	/^    def removeNthFromEnd(self, head, n):$/;"	member	line:11	class:Solution
+hammingWeight	E:\yi_nan\leetcode\191\hammingWeight.c	/^int hammingWeight(uint32_t n) {$/;"	function	line:1	signature:(uint32_t n)
+addTwoNumbers	E:\yi_nan\leetcode\2\addTwoNumbers.c	/^struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {$/;"	function	line:12	signature:(struct ListNode* l1, struct ListNode* l2)
+Solution	E:\yi_nan\leetcode\2\addTwoNumbers.py	/^class Solution(object):$/;"	class	line:10
+addTwoNumbers	E:\yi_nan\leetcode\2\addTwoNumbers.py	/^    def addTwoNumbers(self, l1, l2):$/;"	member	line:11	class:Solution
+Solution	E:\yi_nan\leetcode\205\isIsomorphic.py	/^class Solution(object):$/;"	class	line:1
+isIsomorphic	E:\yi_nan\leetcode\205\isIsomorphic.py	/^    def isIsomorphic(self, s, t):$/;"	member	line:2	class:Solution
+reverseList	E:\yi_nan\leetcode\206\reverseList.c	/^struct ListNode* reverseList(struct ListNode* head) {$/;"	function	line:8	signature:(struct ListNode* head)
+Solution	E:\yi_nan\leetcode\217\containsDuplicate.py	/^class Solution(object):$/;"	class	line:1
+containsDuplicate	E:\yi_nan\leetcode\217\containsDuplicate.py	/^    def containsDuplicate(self, nums):$/;"	member	line:2	class:Solution
+ALLOC_SIZE	E:\yi_nan\leetcode\224\calculate.c	/^#define ALLOC_SIZE /;"	macro	line:1	file:
+calculate	E:\yi_nan\leetcode\224\calculate.c	/^int calculate(char* s) {$/;"	function	line:2	signature:(char* s)
+invertTree	E:\yi_nan\leetcode\226\invertTree.c	/^struct TreeNode* invertTree(struct TreeNode* root) {$/;"	function	line:9	signature:(struct TreeNode* root)
+calculate	E:\yi_nan\leetcode\227\calculate.c	/^int calculate(char* s) {$/;"	function	line:1	signature:(char* s)
+Solution	E:\yi_nan\leetcode\227\calculate.java	/^public class Solution {$/;"	class	line:1
+calculate	E:\yi_nan\leetcode\227\calculate.java	/^public int calculate(String s) {$/;"	method	line:2	class:Solution	signature:(String s)
+lowestCommonAncestor	E:\yi_nan\leetcode\235\lowestCommonAncestor.c	/^struct TreeNode* lowestCommonAncestor(struct TreeNode* root, struct TreeNode* p, struct TreeNode* q) {$/;"	function	line:9	signature:(struct TreeNode* root, struct TreeNode* p, struct TreeNode* q)
+productExceptSelf	E:\yi_nan\leetcode\238\productExceptSelf.c	/^int* productExceptSelf(int* nums, int numsSize, int* returnSize) {$/;"	function	line:5	signature:(int* nums, int numsSize, int* returnSize)
+swapPairs	E:\yi_nan\leetcode\24\swapPairs.c	/^struct ListNode* swapPairs(struct ListNode* head) {$/;"	function	line:8	signature:(struct ListNode* head)
+isAnagram	E:\yi_nan\leetcode\242\isAnagram.c	/^bool isAnagram(char* s, char* t) {$/;"	function	line:1	signature:(char* s, char* t)
+addDigits	E:\yi_nan\leetcode\258\addDigits.c	/^int addDigits(int num) {$/;"	function	line:1	signature:(int num)
+Solution	E:\yi_nan\leetcode\260\singleNumber.cpp	/^class Solution$/;"	class	line:1	file:
+singleNumber	E:\yi_nan\leetcode\260\singleNumber.cpp	/^    vector<int> singleNumber(vector<int>& nums)$/;"	function	line:4	class:Solution	signature:(vector<int>& nums)
+missingNumber	E:\yi_nan\leetcode\268\missingNumber.c	/^int missingNumber(int* nums, int numsSize) {$/;"	function	line:1	signature:(int* nums, int numsSize)
+moveZeroes	E:\yi_nan\leetcode\283\moveZeroes.c	/^void moveZeroes(int* nums, int numsSize) {$/;"	function	line:1	signature:(int* nums, int numsSize)
+divide	E:\yi_nan\leetcode\29\divide.c	/^int divide(int dividend, int divisor) {$/;"	function	line:6	signature:(int dividend, int divisor)
+Solution	E:\yi_nan\leetcode\290\wordPattern.py	/^class Solution(object):$/;"	class	line:1
+wordPattern	E:\yi_nan\leetcode\290\wordPattern.py	/^    def wordPattern(self, pattern, str):$/;"	member	line:2	class:Solution
+canWinNim	E:\yi_nan\leetcode\292\canWinNim.c	/^bool canWinNim(int n) {$/;"	function	line:1	signature:(int n)
+lengthOfLongestSubstring	E:\yi_nan\leetcode\3\lengthOfLongestSubstring.c	/^int lengthOfLongestSubstring(char* s) {$/;"	function	line:6	signature:(char* s)
+Solution	E:\yi_nan\leetcode\3\lengthOfLongestSubstring.py	/^class Solution(object):$/;"	class	line:1
+lengthOfLongestSubstring	E:\yi_nan\leetcode\3\lengthOfLongestSubstring.py	/^    def lengthOfLongestSubstring(self, s):$/;"	member	line:2	class:Solution
+bulbSwitch	E:\yi_nan\leetcode\319\bulbSwitch.c	/^int bulbSwitch(int n) {$/;"	function	line:1	signature:(int n)
+Solution	E:\yi_nan\leetcode\321\maxNumber.py	/^class Solution(object):$/;"	class	line:1
+maxNumber	E:\yi_nan\leetcode\321\maxNumber.py	/^    def maxNumber(self, nums1, nums2, k):$/;"	member	line:2	class:Solution
+mergeStr	E:\yi_nan\leetcode\321\maxNumber.py	/^    def mergeStr(nums1,nums2):$/;"	member	line:22	class:Solution
+maxSingleStr	E:\yi_nan\leetcode\321\maxNumber.py	/^    def maxSingleStr(nums,part):$/;"	member	line:34	class:Solution
+searchRange	E:\yi_nan\leetcode\34\searchRange.c	/^int* searchRange(int* nums, int numsSize, int target, int* returnSize) {$/;"	function	line:8	signature:(int* nums, int numsSize, int target, int* returnSize)
+searchInsert	E:\yi_nan\leetcode\35\searchInsert.c	/^int searchInsert(int* nums, int numsSize, int target) {$/;"	function	line:4	signature:(int* nums, int numsSize, int target)
+max	E:\yi_nan\leetcode\4\findMedianSortedArrays.c	/^#define max(/;"	macro	line:1	file:
+min	E:\yi_nan\leetcode\4\findMedianSortedArrays.c	/^#define min(/;"	macro	line:2	file:
+findMedianSortedArrays	E:\yi_nan\leetcode\4\findMedianSortedArrays.c	/^double findMedianSortedArrays(int* nums1, int nums1Size, int* nums2, int nums2Size) {$/;"	function	line:3	signature:(int* nums1, int nums1Size, int* nums2, int nums2Size)
+Solution	E:\yi_nan\leetcode\4\findMedianSortedArrays.py	/^class Solution(object):$/;"	class	line:91
+findMedianSortedArrays	E:\yi_nan\leetcode\4\findMedianSortedArrays.py	/^    def findMedianSortedArrays(self, nums1, nums2):$/;"	member	line:92	class:Solution
+median	E:\yi_nan\leetcode\4\findMedianSortedArrays.py	/^    def median(A, B):$/;"	member	line:101	class:Solution
+longestPalindrome	E:\yi_nan\leetcode\5\longestPalindrome.c	/^char* longestPalindrome(char* s) {$/;"	function	line:4	signature:(char* s)
+Solution	E:\yi_nan\leetcode\7\reverse.py	/^class Solution(object):$/;"	class	line:4
+reverse	E:\yi_nan\leetcode\7\reverse.py	/^    def reverse(self, x):$/;"	member	line:5	class:Solution
+Solution	E:\yi_nan\leetcode\8\myAtoi.py	/^class Solution(object):$/;"	class	line:4
+myAtoi	E:\yi_nan\leetcode\8\myAtoi.py	/^    def myAtoi(self, str):$/;"	member	line:5	class:Solution
+re	E:\yi_nan\leetcode\8\myAtoi.py	/^        import re$/;"	namespace	line:10
+Solution	E:\yi_nan\leetcode\80\removeDuplicates.py	/^class Solution(object):$/;"	class	line:1
+removeDuplicates	E:\yi_nan\leetcode\80\removeDuplicates.py	/^    def removeDuplicates(self, nums):$/;"	member	line:2	class:Solution
+Solution	E:\yi_nan\leetcode\84\largestRectangleArea.cpp	/^class Solution {$/;"	class	line:2	file:
+largestRectangleArea	E:\yi_nan\leetcode\84\largestRectangleArea.cpp	/^    int largestRectangleArea(vector<int> &height) {$/;"	function	line:4	class:Solution	signature:(vector<int> &height)
+ARRAY_SIZE	E:\yi_nan\leetcode\94\inorderTraversal.c	/^#define ARRAY_SIZE /;"	macro	line:13	file:
+inorderTraversal	E:\yi_nan\leetcode\94\inorderTraversal.c	/^int* inorderTraversal(struct TreeNode* root, int* returnSize) {$/;"	function	line:14	signature:(struct TreeNode* root, int* returnSize)
+isValidBST	E:\yi_nan\leetcode\98\isValidBST.c	/^bool isValidBST(struct TreeNode* root) {$/;"	function	line:9	signature:(struct TreeNode* root)
+Solution	E:\yi_nan\leetcode\98\isValidBST.py	/^class Solution(object):$/;"	class	line:8
+isValidBST	E:\yi_nan\leetcode\98\isValidBST.py	/^    def isValidBST(self, root):$/;"	member	line:9	class:Solution
+isValid	E:\yi_nan\leetcode\98\isValidBST.py	/^    def isValid(self,root,small,large):$/;"	member	line:19	class:Solution
+leetcode	E:\yi_nan\leetcode\README.md	/^# leetcode$/;"	function	line:1
